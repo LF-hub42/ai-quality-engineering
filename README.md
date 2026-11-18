@@ -6,6 +6,18 @@ I am Eleftherios Kypraios. My background brings together technical work as an in
 
 I am building on that experience through hands-on software development and quality engineering. I research technical problems, clarify requirements, write code independently and with AI assistance, coordinate coding agents, investigate defects and verify implementations. I review agent-generated changes and make the technical decisions.
 
+## Portfolio Foundation & Future Development
+
+This repository is the foundation of my evolving AI Quality Engineering portfolio.
+
+My initial focus was on practical software development, technical training, professional certification and hands-on project experience. Public documentation began after several of these activities were already underway.
+
+This first release brings selected assessments, quality engineering practices and project case studies together in a structured, transparent format.
+
+Going forward, I plan to document new evaluations, technical investigations, testing approaches and engineering decisions more consistently from the outset.
+
+Over time, I aim to develop this portfolio into a growing collection of practical experience, reproducible quality practices and increasingly comprehensive technical documentation.
+
 ## Engineering and Quality
 
 My work connects product needs, implementation and verification:
@@ -38,7 +50,7 @@ The assessments are simulated practice exercises, not certifications or evaluati
 | [004: Advanced AI Quality Evaluation](assessments/assessment-004-advanced-ai-quality-evaluation/README.md) | 10 | Risk, evidence and governance |
 | [005: Scenario-Based AI Agent Evaluation](assessments/assessment-005-real-world-ai-agent-evaluation/README.md) | 5 | Bilingual evaluations of simulated scenarios |
 
-Assessments 001–004 are historical summaries. Their original prompts and individual responses are not available in this repository, so I have not reconstructed them. Assessment 005 presents five German evaluations with English translations; its scenario summaries are condensed, and the complete original prompts and reviewer transcripts are not included.
+Assessments 001–004 are historical summaries. Their original prompts and individual responses are not available in this repository, so I have not reconstructed them. Assessment 005 presents five German evaluations with English translations. Its scenario summaries are condensed, and the complete original prompts and reviewer transcripts are not included.
 
 [Assessment index](assessments/README.md)
 

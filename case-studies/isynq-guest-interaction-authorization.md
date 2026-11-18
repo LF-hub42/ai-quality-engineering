@@ -20,7 +20,7 @@ The matrix separates test coverage in source, historical outcomes, and verificat
 
 | Area | Reviewed Coverage | Verification Status |
 |---|---|---|
-| Identity and access | Identity boundaries, event-specific authorization and negative cases | Source reviewed; tests not rerun for this case study |
+| Identity and access | Identity boundaries, event-specific authorization and negative cases | Source reviewed. Tests were not rerun for this case study. |
 | Persistence | Integrity of stored interactions and ownership association | Historical outcomes are documented in private records and were not independently verified here |
 | Realtime | Event delivery and isolation | Delivery remains unverified |
 | Negative coverage | Unauthorized access and invalid identity or request scenarios | Test source reviewed not run for this case study |
@@ -31,7 +31,7 @@ For this later evidence review, I examined project source and records but did no
 
 - Authentication establishes identity. Authorization determines which event actions are permitted.
 - Derive authorization from trusted identity and enforce it consistently across the application and data store.
-- Existing records need separate review; their presence alone does not establish correct ownership or authorization.
+- Existing records need separate review. Their presence alone does not establish correct ownership or authorization.
 - Successful persistence does not prove that an update reached its intended audience.
 - Keep source-defined tests, recorded outcomes, and independently repeated checks distinct.
 

@@ -74,8 +74,8 @@
 
 ## 11) Final score
 
-- Raw score: `[score, if approved for disclosure; otherwise omit]`
-- Normalized score (optional): `[normalized score, if approved for disclosure; otherwise omit]`
+- Raw score: `[score, if approved for disclosure, otherwise omit]`
+- Normalized score (optional): `[normalized score, if approved for disclosure, otherwise omit]`
 - Scoring notes: `[placeholder]`
 
 ## 12) Integrity and disclosure checklist

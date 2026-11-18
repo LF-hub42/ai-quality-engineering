@@ -20,7 +20,7 @@ Existing tests cover summary-to-section routing, not rendered scrolling or viewp
 |---|---|---|
 | Summary edit routing | Existing tests cover mapping to the selected section | Reviewed, not run |
 | Scroll behavior | Reviewed change adjusts navigation positioning | Not verified in a browser |
-| Test suite and build | A prior project report records test and build results | Predates the reviewed change; not rerun |
+| Test suite and build | A prior project report records test and build results | The results predate the reviewed change. Tests and build were not rerun. |
 | Responsive behavior | No viewport-specific result was available | Unverified |
 
 Earlier project reports do not establish that the navigation change passed tests or built successfully. This later evidence review covered project materials only. I did not run frontend tests, a build, or browser checks.
