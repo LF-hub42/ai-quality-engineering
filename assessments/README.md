@@ -17,4 +17,4 @@ These five ChatGPT assessments document my practice evaluating AI-generated beha
 
 ## Evidence Scope
 
-Assessments 001–004 are historical summaries. Their original prompts, individual responses and detailed reviewer feedback are not available in this repository. I have not reconstructed them. Assessment 005 includes edited German evaluations, English translations and condensed scenario descriptions complete original prompts and reviewer transcripts are not included.
+Assessments 001 - 004 are historical summaries. Their original prompts, individual responses and detailed reviewer feedback are not available in this repository. I have not reconstructed them. Assessment 005 includes edited German evaluations, English translations and condensed scenario descriptions complete original prompts and reviewer transcripts are not included.
