@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" role="img" aria-labelledby="title desc">
+  <title id="title">Severity Scale</title>
+  <desc id="desc">Severity classification cards from low to critical with color coding and release impact labels.</desc>
+  <rect width="900" height="320" fill="#0f1428"/>
+  <text x="30" y="44" fill="#e8efff" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Severity Classification Scale</text>
+
+  <rect x="30" y="72" width="410" height="96" rx="12" fill="#1f8f52"/>
+  <text x="52" y="113" fill="#ffffff" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Low</text>
+  <text x="52" y="145" fill="#ffffff" font-size="20" font-family="Segoe UI, Arial, sans-serif">Monitor</text>
+
+  <rect x="460" y="72" width="410" height="96" rx="12" fill="#c8a100"/>
+  <text x="482" y="113" fill="#111111" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Medium</text>
+  <text x="482" y="145" fill="#111111" font-size="20" font-family="Segoe UI, Arial, sans-serif">Planned remediation</text>
+
+  <rect x="30" y="192" width="410" height="96" rx="12" fill="#cf6a00"/>
+  <text x="52" y="233" fill="#ffffff" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">High</text>
+  <text x="52" y="265" fill="#ffffff" font-size="20" font-family="Segoe UI, Arial, sans-serif">Mitigation required</text>
+
+  <rect x="460" y="192" width="410" height="96" rx="12" fill="#c83838"/>
+  <text x="482" y="233" fill="#ffffff" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Critical</text>
+  <text x="482" y="265" fill="#ffffff" font-size="20" font-family="Segoe UI, Arial, sans-serif">Release blocker</text>
+</svg>
+

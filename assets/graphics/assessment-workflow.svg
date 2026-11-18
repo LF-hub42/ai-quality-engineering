@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 360" role="img" aria-labelledby="title desc">
+  <title id="title">Assessment Workflow</title>
+  <desc id="desc">Workflow diagram showing scope, evaluation, evidence review, severity classification, and simulated release decision.</desc>
+  <rect width="920" height="360" fill="#0d1224"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">
+    <rect x="30" y="52" width="260" height="86" rx="12" fill="#1a2340" stroke="#4ea1ff"/>
+    <text x="52" y="104" fill="#e8efff">1. Scope &amp; objectives</text>
+
+    <rect x="330" y="52" width="260" height="86" rx="12" fill="#1a2340" stroke="#4ea1ff"/>
+    <text x="352" y="104" fill="#e8efff">2. Evaluation run</text>
+
+    <rect x="630" y="52" width="260" height="86" rx="12" fill="#1a2340" stroke="#4ea1ff"/>
+    <text x="652" y="104" fill="#e8efff">3. Findings &amp; evidence</text>
+
+    <rect x="180" y="206" width="260" height="86" rx="12" fill="#1a2340" stroke="#8f7bff"/>
+    <text x="202" y="258" fill="#e8efff">4. Risk &amp; severity</text>
+
+    <rect x="480" y="206" width="320" height="86" rx="12" fill="#1a2340" stroke="#8f7bff"/>
+    <text x="502" y="258" fill="#e8efff">5. Simulated release decision</text>
+  </g>
+
+  <g stroke="#8f7bff" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M290 95h34"/>
+    <path d="M590 95h34"/>
+    <path d="M760 140v40"/>
+    <path d="M760 180h-260"/>
+    <path d="M500 180v18"/>
+    <path d="M440 249h34"/>
+  </g>
+</svg>
+
