@@ -23,7 +23,7 @@ The matrix separates test coverage in source, historical outcomes, and verificat
 | Identity and access | Identity boundaries, event-specific authorization and negative cases | Source reviewed; tests not rerun for this case study |
 | Persistence | Integrity of stored interactions and ownership association | Historical outcomes are documented in private records and were not independently verified here |
 | Realtime | Event delivery and isolation | Delivery remains unverified |
-| Negative coverage | Unauthorized access and invalid identity or request scenarios | Test source reviewed; not run for this case study |
+| Negative coverage | Unauthorized access and invalid identity or request scenarios | Test source reviewed not run for this case study |
 
 For this later evidence review, I examined project source and records but did not run database tests or inspect a live environment. Realtime delivery remains unverified.
 
